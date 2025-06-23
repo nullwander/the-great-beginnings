@@ -1,7 +1,7 @@
 DATE: Monday, June 23rd, 2025. (23/06/2025)
 Topic: Tryhackme's Offensive Security room. 
 
-Description: It uses gobuster to check a fake bank webpage for any branches left open, such as admin, robots, or in this case bank-transfer. 
+Description: It uses gobuster to check a fake bank webpage for any endpoints left open, such as admin, robots, or in this case bank-transfer. 
 
 It uses a wordlist along with gobuster, just like you would with John the Ripper
 or any other type of guessing/cracking tool. Always recommended to use multiple
@@ -14,7 +14,7 @@ Tools Used:
 Lessons learned: 
 - How to search for additional locations on a webpage using wordlists and gobuster. 
 - The importance of making sure everything that should not be accessed is locked down. 
-- The importance of mapping and tracking your website's ports, pages, and information.
+- The importance of mapping and tracking your website's ports, endpoints, and information.
 
 Notes for future me: Make sure you use multiple lists. Don't get lazy.
 
