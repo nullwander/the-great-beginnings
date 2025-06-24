@@ -3,6 +3,8 @@ Subject: DVWA Installation & Beacon Scanning
 Description:
 
 Today, I worked on installing DVWA (Damn Vulnerable Web Application) safely in a non-public-facing environment using a Raspberry Pi. I also built a Python script to detect basic beaconing behavior with help from ChatGPT and Python documentation.
+
+
 Technical Overview:
 
     Preventing DVWA Exposure via IPv6:
