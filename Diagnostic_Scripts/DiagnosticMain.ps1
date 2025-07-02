@@ -2,7 +2,7 @@
 
 $logBuffer = @()
 #doing the file check
-. C:\Users\jacob\Desktop\projects\Diagnostic_Scripts\FileCheck.ps1
+. C:\Users\$env:USERNAME\Desktop\projects\Diagnostic_Scripts\FileCheck.ps1
 FileCheck
 #beginning of script
 "=== Beginning of the Diagnostic ===`n" | Out-String | Out-File -FilePath "C:\Users\$env:USERNAME\Desktop\Test\dump.log"
