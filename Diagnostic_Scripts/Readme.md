@@ -1,6 +1,6 @@
 # PowerShell Diagnostic Toolkit
 
-A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Windows systems. Designed to support Help Desk and Tier 2 escalation workflows.
+A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Windows systems. Designed to support Help Desk and Tier 2 escalation workflows. This project is for educational/learning purposes, and I do not recommend using this in an office environment without some changes.
 
 ## Features
 
@@ -26,3 +26,7 @@ A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Wi
 - `Get-NetworkInfo.ps1`: Active IPv4 interface information
 
 Note: If any fields are left blank - like PrefixLength in Network Info - it is due to there not being any information. I am working on another version of this that will not only fix that issue, but also include DNS checks for stable network connectivity checks. 
+
+## Legal
+
+These scripts, and my entire repo, is free to modify as needed after donwload. If you have any tips, or cool updates to show me, please feel free to reach out. I'm always down to learn some more. 
