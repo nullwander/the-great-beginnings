@@ -5,7 +5,7 @@ This week, I've been doing a bit more in the way of deep dives and research than
 - **Re-established knowledge on Displays, Mobile Connections, and basic Networking via Professer Messer's videos, while taking comprehensive notes.**
 - **Made the switch to start learning Powershell scripts - made my first script this morning (Diagnostic_Scripts folder). I used AI to debug and to steer me in the correct general direction, but other than that it's all me. I never took actual code from it.**
 - **Worked on Legacy Hardware doing data recovery for my family. I successfully restored an old Acer desktop using Pentium cores, and an old Dell Desktop with the same. The Acer ran windows 7, and the Dell ran Vista. The Dell had virtual mounts, and used a USB-Locked Briefcase, which I thought seemed advanced for users at that time.**
-- **Ethics research and learning pathways. I understand that doing things like "Cert Hunting" is not the best way to gain any sort of merit other than the cert itself. They're stepping stones, not proof of hands-on skill.**
+- **Ethics research and learning pathways. I understand that doing things like "Cert Hunting" is not the best way to gain any sort of merit other than the cert itself. They're stepping stones, and by themselves won't guarantee anything.**
 
 ## Tools I used:
 - **ChatGPT for debugging and augmenting my learning. I try to not let it give me answers unless its for comprehension on a subject that I'm new to. All code it does provide, whether as an example or if it decided to just print an entire block, I read through it and break down parts I don't understand. I use man pages and forums. If it doesn't click, only then do I go back.**
