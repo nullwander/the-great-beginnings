@@ -1,0 +1,70 @@
+﻿=== Event Diagnostics: 07/02/2025 16:32:18 ===
+
+
+TimeCreated      : 7/2/2025 12:29:43 PM
+Id               : 1796
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931
+
+TimeCreated      : 7/2/2025 12:29:43 PM
+Id               : 1796
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931
+
+TimeCreated      : 7/2/2025 12:24:29 PM
+Id               : 124
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The virtualization-based security enablement policy check at phase 0 failed with status: Virtual Secure Mode (VSM) is not initialized. The hypervisor or VSM may not be present or enabled.
+
+TimeCreated      : 7/2/2025 12:24:29 PM
+Id               : 42
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-Hyper-V-Hypervisor
+Message          : Hypervisor launch failed; Either SVM not present or not enabled in BIOS.
+
+TimeCreated      : 7/2/2025 12:23:27 AM
+Id               : 124
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The virtualization-based security enablement policy check at phase 0 failed with status: Virtual Secure Mode (VSM) is not initialized. The hypervisor or VSM may not be present or enabled.
+
+=== End of Event Diagnostics ===
+=== Network Diagnostics: 07/02/2025 16:32:18 ===
+Interface: Ethernet
+IP Address: [INTERNAL IP]
+Prefix Length: 
+
+
+=== End of Network Diagnostics ===
+=== Process Info: 07/02/2025 16:32:18 ===
+Name          : firefox
+TotalCPU      : 2225
+TotalMemoryMB : 3420.29
+Count         : 18
+
+Name          : Discord
+TotalCPU      : 169
+TotalMemoryMB : 910.2
+Count         : 6
+
+Name          : explorer
+TotalCPU      : 87.53125
+TotalMemoryMB : 231.01
+Count         : 1
+
+Name          : Taskmgr
+TotalCPU      : 84.375
+TotalMemoryMB : 54.73
+Count         : 1
+
+Name          : audiodg
+TotalCPU      : 42.859375
+TotalMemoryMB : 13.16
+Count         : 1
+
+=== End of Process Info ===
+
+
