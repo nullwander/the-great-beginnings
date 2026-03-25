@@ -25,7 +25,7 @@ A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Wi
 - `Get-ProcessInfo.ps1`: Top 5 CPU/memory usage processes
 - `Get-NetworkInfo.ps1`: Active IPv4 interface information
 
-Note: If any fields are left blank - like PrefixLength in Network Info - it is due to there not being any information. I am working on another version of this that will not only fix that issue, but also include DNS checks for stable network connectivity checks. 
+Note: If any fields are left blank - like PrefixLength in Network Info - it is due to there not being any information.
 
 ## Legal
 
