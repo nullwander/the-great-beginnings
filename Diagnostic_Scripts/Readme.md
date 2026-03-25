@@ -1,6 +1,6 @@
 # PowerShell Diagnostic Toolkit
 
-A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Windows systems. Designed to support Help Desk and Tier 2 escalation workflows. This project is for educational/learning purposes, and I do not recommend using this in an office environment without some changes.
+A lightweight PowerShell toolkit for collecting quick diagnostic snapshots of Windows systems. Designed to support Help Desk and Tier 2 escalation workflows. This project is for educational/learning purposes.
 
 ## Features
 
